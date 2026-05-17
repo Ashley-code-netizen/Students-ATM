@@ -1,6 +1,7 @@
 # Students-ATM. Py
 The ATM is to help students manage their finances 
 ```python
+balance = 1000
 while True:
     print("\n1. Check balance")
     print("2. Deposit cash")
