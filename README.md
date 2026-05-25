@@ -1,6 +1,6 @@
 # Students-ATM. Py
-The ATM is to help students manage their finances 
-```python
+#The ATM is to help students manage their finances 
+
 balance = 1000
 while True:
     print("\n1. Check balance")
@@ -39,4 +39,4 @@ while True:
     ############################
     else:
         print("Invalid choice")
-```
+
