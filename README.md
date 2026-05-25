@@ -1,8 +1,7 @@
 
 
 # Students-ATM. Py
-#The ATM is to help students manage their finances 
-
+#The ATM is to help students manage their finances. 
 balance = 1000
 while True:
     print("\n1. Check balance")
